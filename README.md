@@ -74,8 +74,7 @@ const avinash = {
 - 🏆 **Major Achievement:** Official Mobile App for Australian Open 2020
 - 🏛️ **Government Project:** India's Complex Indirect Tax Implementation System
 - 📚 **Publication:** IEEE Xplore - IoT Kitchen Monitoring System
-- 📧 **Email:** avinash.nayak02@outlook.com
-- 📱 **Phone:** +91 9632772515
+- 📧 **Email:** me@avinashnayak.in
 - 🌐 **Portfolio:** [avinashnayak.in](https://avinashnayak.in/)
 
 <br clear="right"/>
@@ -111,8 +110,7 @@ Institute of Technical Education & Research, Odisha, India
 </div>
 
 ---
-
-<img align="left" height="320" width="320" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+ 
 
 ### 💻 **Core Competencies**
 
