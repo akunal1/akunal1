@@ -4,132 +4,184 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
-    <img src="https://i.pinimg.com/originals/cb/22/60/cb22603604e36d1caab7cc4e729506c9.gif" width="40px" />
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" />
   </a>
 </h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+React+Native+Expert;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
 <br/>
-<br/>
+
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
-</a> 
+</a>
 
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Mobile application and Web Development**
-- 🌱 I’m currently learning **NodeJS, GraphQL**
-- 👯 I’m looking to collaborate on **React Native or Web Development**
-- 💬 Ask me about Anything [here](https://github.com/akunal1/akunal1/issues/1)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+- 🔭 Currently working on **Mobile application and Web Development**
+- 🌱 Learning **NodeJS, GraphQL**
+- 👯 Looking to collaborate on **React Native or Web Development**
+- 💬 Ask me about anything [here](https://github.com/akunal1/akunal1/issues/1)! I am happy to help
+- 😄 Pronouns: **He/Him/His**
+- 🌐 Portfolio: **[avinashnayak.in](http://avinashnayak.in/)**
+- 🏢 Currently working at **AGCO, Germany** 🇩🇪
 
 <br/>
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/akunal1" alt="profile views"> •  
+  <img src="https://komarev.com/ghpvc/?username=akunal1&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/akunal1?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/akunal1?label=Stars" alt="Total Stars">
+  <img src="https://img.shields.io/github/stars/akunal1?label=Stars&style=social" alt="Total Stars">
 </p>
 
+---
 
-#
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akunal1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/akunal1)
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akunal1&theme=dark&hide_border=true"/>
+  <a href="https://github.com/akunal1">
+    <img src="https://github-profile-trophy.vercel.app/?username=akunal1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="trophy" />
   </a>
 </p>
 
-#
+---
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://img2.dreamies.de/img/18/b/98dxhh3ltqw.gif"></a>
-<br/>
+### 🔥 Streak Stats
 
-**Programming / Markup Languages**  
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img height="40" width="40" src="https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-<code><img height="40" width="40" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></code>
-<code><img height="40" width="40" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+<p align="center">
+  <a href="https://github.com/akunal1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akunal1&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=2E97F7&fire=2E97F7&currStreakLabel=2E97F7" alt="GitHub Streak"/>
+  </a>
+</p>
 
-#
+---
 
-**Libraries / Frameworks**
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img height="40" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/phonegap-bot-logo.png"></code>
+<img align="left" height="300" width="300" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-#
+### 💻 Tech Stack
 
-**Others**
-<br/>
-<br/>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.theprovatogroup.com/wp-content/uploads/2020/01/devops.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919855.svg"></code>
+#### **Programming / Markup Languages**
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+
+#### **Libraries / Frameworks**
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
+
+#### **Tools & Technologies**
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/mapbox/mapbox-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"></code>
-<code><img height="40" width="40" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 
+<br clear="left"/>
+
+---
+
+### 📊 GitHub Statistics
+
+<details open>
+<summary><b>📈 GitHub Stats</b></summary>
 <br/>
 
-#
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats : </strong>
-</summary>
-<br>
-  
 <p align="center">
   <a href="https://github.com/akunal1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akunal1&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akunal1&show_icons=true&hide_border=true&title_color=2E97F7&icon_color=2E97F7&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/akunal1">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunal1&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunal1&text_color=c9d1d9&bg_color=0d1117&title_color=2E97F7&langs_count=8&layout=compact&hide_border=true" />
   </a>
 </p>
+
 </details>
-<br>
 
-#
+<details>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/akunal1">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  </a>
-</p>
+<a href="https://github.com/akunal1">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=akunal1&theme=react-dark&hide_border=true&area=true" />
+</a>
 
+</details>
 
+---
+
+### 🚀 Featured Projects
 
 <div align="center">
+
+<a href="https://github.com/akunal1/react-js-typescript-boilerplate-pwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akunal1&repo=react-js-typescript-boilerplate-pwa&theme=react&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/akunal1/react-native-typescript-boilerPlate-expo-bare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akunal1&repo=react-native-typescript-boilerPlate-expo-bare&theme=react&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/akunal1/angular-production-pwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akunal1&repo=angular-production-pwa&theme=react&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/akunal1/avinash-resume-single-page">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akunal1&repo=avinash-resume-single-page&theme=react&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="http://avinashnayak.in/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/avinash-nayak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/akunal1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/avinash_nayak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
 
-#
- 
+---
 
----- 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
