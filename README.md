@@ -88,6 +88,12 @@ Institute of Technical Education & Research, Odisha, India
 📅 2011 - 2015
 
 ---
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake.svg" />
+</picture>
+---
 
 ### 🏆 **Certifications**
 
@@ -143,11 +149,6 @@ Institute of Technical Education & Research, Odisha, India
 </details>
 
 ---
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akunal1&theme=tokyonight" width="100%" />
 
