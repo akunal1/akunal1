@@ -137,7 +137,7 @@ Institute of Technical Education & Research, Odisha, India
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E97F7&text_color=A0A0A0&langs_count=10" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E97F7&text_color=A0A0A0&langs_count=10" width="78%" alt="Top Languages"/>
 </div>
 
 </details>
