@@ -149,7 +149,9 @@ Institute of Technical Education & Research, Odisha, India
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake.svg" />
 </picture>
 
- 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akunal1&theme=tokyonight" />
+
+ ---
 
 ### 💻 **Core Competencies**
 
