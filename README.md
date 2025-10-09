@@ -143,16 +143,11 @@ Institute of Technical Education & Research, Odisha, India
 </details>
 
 ---
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akunal1/akunal1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akunal1/akunal1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akunal1/akunal1/output/github-snake.svg" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akunal1/akunal1/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
 
  
 
