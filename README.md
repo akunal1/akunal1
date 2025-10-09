@@ -110,6 +110,40 @@ Institute of Technical Education & Research, Odisha, India
 </div>
 
 ---
+### 📊 **GitHub Activity**
+
+<details open>
+<summary><b>📈 Contribution Graph</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akunal1&bg_color=0d1117&color=2e97f7&line=2e97f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+</details>
+
+<details open>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akunal1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="trophy" />
+</div>
+
+</details>
+
+<details>
+<summary><b>📊 Language Statistics</b></summary>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E97F7&text_color=A0A0A0&langs_count=10" width="48%" alt="Top Languages"/>
+</div>
+
+</details>
+
+---
+
  
 
 ### 💻 **Core Competencies**
@@ -260,39 +294,6 @@ Institute of Technical Education & Research, Odisha, India
 
 ---
 
-### 📊 **GitHub Activity**
-
-<details open>
-<summary><b>📈 Contribution Graph</b></summary>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akunal1&bg_color=0d1117&color=2e97f7&line=2e97f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
-</details>
-
-<details open>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akunal1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="trophy" />
-</div>
-
-</details>
-
-<details>
-<summary><b>📊 Language Statistics</b></summary>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunal1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E97F7&text_color=A0A0A0&langs_count=10" width="48%" alt="Top Languages"/>
-</div>
-
-</details>
-
----
 
 ### 🌟 **Featured Repositories**
 
